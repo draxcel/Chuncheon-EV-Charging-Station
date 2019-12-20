@@ -1,0 +1,8 @@
+business → 춘천시 읍면동별, 사업체, 종사자 수
+ev_charger → 춘천시 읍면동별 전기차 충전기 대수
+ev_ratio → 춘천시 읍면동별 전기차 대수, 충전기 대수
+ev_num → 춘천시 읍면동별 전기차 대수
+parking_lot → 춘천시 읍면동별 주차장 수
+population → 춘천시 읍면동별 인구수
+public_institution → 춘천시 읍면동별 공공기관 수
+v_num → 춘천시 읍면동별 차량 대수
