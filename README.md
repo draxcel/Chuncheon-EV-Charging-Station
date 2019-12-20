@@ -367,7 +367,7 @@ ggplot() + geom_polygon(data = data_merge.group, aes(x = long, y = lat, group = 
   geom_circle(aes(r = 1000, x0 = long.23, y0 = lat.23), color = "red")</code></pre>
   
 - 결과물:
-<p><img src="https://github.com/draxcel/chuncheon_EV_charging_station/blob/master/%EA%B5%B0%EC%A7%912_%ED%91%9C%EC%8B%9C_%EC%B5%9C%EC%A0%81.png?raw=true" alt="최종결과물" width="300" height="270"></p>
+<p><img src="https://github.com/draxcel/chuncheon_EV_charging_station/blob/master/%EA%B5%B0%EC%A7%912_%ED%91%9C%EC%8B%9C_%EC%B5%9C%EC%A0%81.png?raw=true" alt="최종결과물" width="270" height="270"></p>
 
 최종결과는 '동면, 동내면, 석사동, 퇴계동, 강남동, 신사우동' 6곳으로,  
 해당 읍면동의 공영주차장에 우선적으로 전기차 충전소를 설치하는 것을 권장함.
